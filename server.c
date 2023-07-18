@@ -21,7 +21,8 @@
  */
 
 #define DEFAULT_PORT 6789
-#define DEFAULT_ADDR "10.2.165.250"
+// CHANGE ADDRESS
+#define DEFAULT_ADDR "xx.xx.xx.xx"
 
 #include <stdio.h>
 #include <stdlib.h>
